@@ -1,0 +1,17 @@
+{
+  "1": {
+    "name": "Bangla",
+    "rate": "40%"
+
+  },
+  "2": {
+    "name": "Japanese",
+    "rate": "60%"
+
+  },
+  "3": {
+    "name": "English",
+    "rate": "69%"
+    
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "1": {
+    "name": "Blender",
+    "rate": "40%"
+
+  },
+  "2": {
+    "name": "Adobe Photoshop",
+    "rate": "60%"
+
+  },
+  "3": {
+    "name": "Microsoft Excel",
+    "rate": "69%"
+    
+  }
+}
